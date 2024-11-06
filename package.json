@@ -1,6 +1,6 @@
 {
   "name": "HiruAPI",
-  "version": "1.0.",
+  "version": "1.0.0",
   "scripts": {
     "package": "sudo yarn install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp",
     "start": " node index.js",
